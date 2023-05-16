@@ -10,7 +10,7 @@ import thermometerImage from "./assets/thermometer.png";
 import windImage from "./assets/wind.png";
 
 // environment variables
-const URL = "http://api.weatherapi.com/v1/current.json?aqi=no";
+const URL = "https://api.weatherapi.com/v1/current.json?aqi=no";
 const KEY = "a267b50095b04aa9b53192120231605";
 
 // Component
